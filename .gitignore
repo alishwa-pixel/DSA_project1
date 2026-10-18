@@ -1,0 +1,9 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+.vscode/
+Thumbs.db
+books_copy.csv
+try_it.py
